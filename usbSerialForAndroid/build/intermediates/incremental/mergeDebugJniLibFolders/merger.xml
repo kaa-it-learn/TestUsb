@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/akruglov/Projects/Learn/Android/Kotlin/TestUsb/usbSerialForAndroid/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/akruglov/Projects/Learn/Android/Kotlin/TestUsb/usbSerialForAndroid/src/debug/jniLibs"/></dataSet></merger>
