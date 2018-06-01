@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         usbRepository = UsbModemRepository(applicationContext)
-        usbRepository.init()
+        usbRepository.initRx()
     }
 }
